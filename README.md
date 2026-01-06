@@ -1,3 +1,42 @@
+Inverter type
+
+3PH HYD
+1PH HYD
+
+1PH OFG
+
+
+Inverter Model
+SunPunch Basic
+SunPunch Basic Pro
+SunPunch Premium
+SunPunch Premium Pro
+SunPunch TriMax
+SunCumulus Basic
+SunCumulus Basic Pro
+SunCumulus Premium
+SunCumulus Premium Pro
+SunPunch TriMax
+E-Cumulus Basic
+E-Cumulus Basic Pro
+E-Cumulus Premium
+E-Cumulus Premium Pro
+SunSense
+SunGrab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Work Order No.
 Order Receive Date
 Dealer / Customer Name
