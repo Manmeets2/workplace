@@ -1,1 +1,4 @@
-https://www.canva.com/design/DAG9ngWtHrg/MrH2PC9hrFkXjmCo_0cT6Q/edit?utm_content=DAG9ngWtHrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Resources I found helpful for starting to build Power BI reports: 
+Basics: https://youtu.be/I0vQ_VLZTWg?si=XSCfoLRASkcWSVs8 
+Data Modelling: https://youtu.be/air7T8wCYkU?si=2cLtfetU73ZSJIdQ 
+Loading data from SP Lis: https://youtu.be/ofQFAZ7jrbc?si=HcoD8No4G2ysbS-K 
