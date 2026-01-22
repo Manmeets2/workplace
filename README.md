@@ -135,3 +135,23 @@ Run rule-based + AI checks.
 Show dashboard + alerts.
 
 Keep laws updated automatically.
+
+
+Use external API (HuggingFace, OpenAI, local LLM)
+Complex relational DB	Use Airtable/Xano + API calls
+Large documents / PDFs	Preprocess with Python script, store JSON
+Real-time regulation updates	Integrate scraping + API workflow
+
+
+
+Landing Page / Dashboard → shows compliance overview
+
+Upload Document / Report → triggers VO workflow
+
+AI Rule Check → calls API, returns compliance result
+
+Update Database → Airtable/Xano updated
+
+Show Dashboard → colored risk levels
+
+Send Alerts → Email/SMS/WhatsApp
