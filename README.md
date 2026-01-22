@@ -112,3 +112,13 @@ Step 6: Improve automation gradually
 Add AI to parse documents and automatically flag risks.
 
 Start with simple rule-based checks, then expand.
+
+
+Layer	Choice
+Backend	Python (Django/FastAPI)
+Frontend	React.js
+Database	PostgreSQL
+Vector DB	Milvus / Weaviate
+NLP	spaCy + Hugging Face
+LLM	Falcon / LLaMA locally
+Storage	AWS S3
