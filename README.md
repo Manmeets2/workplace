@@ -114,11 +114,24 @@ Add AI to parse documents and automatically flag risks.
 Start with simple rule-based checks, then expand.
 
 
-Layer	Choice
-Backend	Python (Django/FastAPI)
-Frontend	React.js
-Database	PostgreSQL
-Vector DB	Milvus / Weaviate
-NLP	spaCy + Hugging Face
-LLM	Falcon / LLaMA locally
-Storage	AWS S3
+Layer	Tool/Library
+Database	PostgreSQL / MongoDB
+PDF Parsing	PyMuPDF / PDFMiner / Tesseract OCR
+NLP/AI	spaCy, sentence-transformers, LLaMA/Falcon
+Vector DB	Milvus / Weaviate for semantic search
+Backend	Python + FastAPI/Django
+Frontend	React.js + Charting libraries
+Alerts	Twilio / SendGrid / WhatsApp API
+Summary Flow
+
+Import laws into structured DB.
+
+Parse text + store full content.
+
+Map company actions to laws.
+
+Run rule-based + AI checks.
+
+Show dashboard + alerts.
+
+Keep laws updated automatically.
